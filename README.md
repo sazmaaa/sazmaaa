@@ -27,7 +27,7 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the university </b></em> <br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at Alliance university </b></em> <br/>
    
 </p>
 
