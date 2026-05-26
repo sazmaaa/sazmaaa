@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/sazmaparween" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:sazmaparween246@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  
+  </a>
  
 </p>
 
@@ -30,7 +34,7 @@
 <br/>
 <br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-## 🛠️ Technologies
+
 
 ### Core Languages & Web Development
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
